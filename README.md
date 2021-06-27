@@ -1,2 +1,2 @@
 # Dragon
-The offical Desktop Environment of Phoenix Kernel.
+The official Desktop Environment of Phoenix Kernel.
